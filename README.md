@@ -12,3 +12,5 @@ The icons used are from [Unicons](https://iconscout.com/unicons)
 
 ### `All Rights Reserved and not made for copying`
 
+# Hosting
+The website url : [Click Here](https://banaotask1.netlify.app/)
